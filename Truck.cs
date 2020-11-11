@@ -1,7 +1,5 @@
 using System;
 
-namespace LearnInterfaces
-{
   class Truck : IAutomobile
   {
   	public string LicensePlate

@@ -1,7 +1,5 @@
 using System;
 
-namespace LearnInterfaces
-{
   class Sedan : IAutomobile
   {
   	public string LicensePlate

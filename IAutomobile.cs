@@ -1,7 +1,5 @@
 using System;
 
-
-{
   interface IAutomobile
   {
     string LicensePlate { get; }

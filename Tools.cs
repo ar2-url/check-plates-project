@@ -1,7 +1,5 @@
 using System;
 
-namespace LearnInterfaces
-{
     static class Tools
     {
       private static string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
